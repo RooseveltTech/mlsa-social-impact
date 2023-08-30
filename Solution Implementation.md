@@ -15,6 +15,7 @@
 
 3. Phase 3: Backend Development
     - [x] Set up the backend infrastructure to support real-time air quality tracking, plant identification, and disease diagnosis.
+    - [x] Develop the Forums and Blogs where users can learn from one another.
     - [x] Develop algorithms and machine learning models for accurate plant identification and disease diagnosis.
     - [x] Integrate with reliable air quality monitoring sources to fetch real-time data.
 
@@ -30,7 +31,7 @@
     - [x] Gather user feedback through beta testing and make necessary improvements to enhance the app's usability and user experience.
 
 6. Phase 6: Deployment and Launch
-    - [x] Prepare the app for deployment on relevant mobile platforms (iOS and Android).
+    - [x] Prepare the app for deployment on web and mobile platforms (iOS and Android).
     - [x] Publish the app on respective app stores and ensure compliance with app store guidelines.
     - [x] Plan and execute a marketing strategy to generate awareness and attract users to the app.
     - [x] Monitor user feedback and address any issues or feature requests in subsequent updates.
