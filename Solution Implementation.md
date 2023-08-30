@@ -1,5 +1,8 @@
+# Solution Implementation
+## Project: GreenAir-Your Personal Plant Companion
+<hr/>
 
-### 8. PROJECT ROADMAP
+### PROJECT ROADMAP
 1. Phase 1: Research and Planning
     - [x] Conduct market research to understand user needs, competitor analysis, and industry trends.
     - [x] Define the app's target audience, features, and overall goals.
