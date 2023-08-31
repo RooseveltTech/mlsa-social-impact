@@ -2,8 +2,8 @@
 ## Project: GreenAir-Your Personal Plant Companion
 <hr/>
 
-### Frontend Design
-The frontend of this application is built using the following technologies hosted on Vercel
+### 1. Frontend
+The front-end of this application is built using the following technologies hosted on Vercel
 1. Next JS (Typescript)
 2. Tailwind
 3. Flowbite Design
@@ -12,7 +12,7 @@ The frontend of this application is built using the following technologies hoste
 ##### Link to the front end https://social-impact-front-end.vercel.app/
 ##### The link to the frontend project https://github.com/RooseveltTech/social-impact-front-end
 
-### Backend
+### 2. Backend
 The Backend of this application is built with the following technologies hosted on Microsoft Azure
 1. Python
 2. Django
@@ -26,7 +26,12 @@ The Backend of this application is built with the following technologies hosted 
 ##### The documentation to the backend application https://backendgreenair.azurewebsites.net/
 ##### the Githhub link to the backend project https://github.com/RooseveltTech/social-impact-back-end
 
-### Components of Web Application
+### 3. Mobile
+The mobile application is built with Kotlin
+##### the Githhub link to the mobile project https://github.com/Manviaggar/GreenAir
+
+
+### Components of Application
 - [x] Registration Page
 - [x] Login page
 - [x] Home Page (Air Quality Index and Important Plants)
