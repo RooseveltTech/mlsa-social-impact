@@ -9,7 +9,8 @@ The frontend of this application is built using the following technologies hoste
 3. Flowbite Design
 4. Hosted on Vercel
 
-##### Link to the front end  https://social-impact-front-end.vercel.app/
+##### Link to the front end https://social-impact-front-end.vercel.app/
+##### The link to the frontend project https://github.com/RooseveltTech/social-impact-front-end
 
 ### Backend
 The Backend of this application is built with the following technologies hosted on Microsoft Azure
@@ -23,6 +24,7 @@ The Backend of this application is built with the following technologies hosted 
 8. Posgresql (Database)
 
 ##### The documentation to the backend application https://backendgreenair.azurewebsites.net/
+##### the Githhub link to the backend project https://github.com/RooseveltTech/social-impact-back-end
 
 ### Components of Web Application
 - [x] Registration Page
